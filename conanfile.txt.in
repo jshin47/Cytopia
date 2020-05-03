@@ -10,6 +10,7 @@ bzip2/1.0.8@conan/stable
 @_CC_SDL2_MIXER@sdl2_mixer/2.0.4@bincrafters/stable 
 @_CC_MOFILEREADER@MofileReader/1.0.0@anotherfoxguy/stable
 libpng/1.6.37
+libalsa/1.1.9
 freetype/2.10.0@bincrafters/stable
 libnoise/1.0.1@anotherfoxguy/stable
 OpenSSL/1.1.1c@conan/stable
