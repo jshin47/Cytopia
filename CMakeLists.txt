@@ -14,32 +14,7 @@ option(ENABLE_MICROPROFILE "Enable microprofile" OFF)
 option(ENABLE_ANGELSCRIPT "Enable AngelScript" ON)
 option(ENABLE_MOFILEREADER "Enable MofileReader" ON)
 
-# Comment-out uneeded libs
-if (NOT ENABLE_AUDIO)
-    set(_CC_SDL2_MIXER "# ")
-endif ()
-
-if (NOT ENABLE_AUDIO)
-    set(_CC_OPENAL_SOFT "# ")
-endif ()
-
-if (NOT BUILD_TEST)
-    set(_CC_CATCH2 "# ")
-endif ()
-
-if (NOT ENABLE_ANGELSCRIPT)
-    set(_CC_ANGELSCRIPT "# ")
-endif ()
-
-if (NOT ENABLE_MOFILEREADER)
-    set(_CC_MOFILEREADER "# ")
-endif ()
-
-if (WIN32)
-    configure_file("${CMAKE_CURRENT_SOURCE_DIR}/conanfile-win.txt.in" "${CMAKE_CURRENT_SOURCE_DIR}/conanfile.txt")
-else()
-    configure_file("${CMAKE_CURRENT_SOURCE_DIR}/conanfile.txt.in" "${CMAKE_CURRENT_SOURCE_DIR}/conanfile.txt")
-endif ()
+include(ConfigureConanFile)
 
 set(_include_directories "${CMAKE_CURRENT_SOURCE_DIR}/external/header_only")
 set(_compile_definitions "")

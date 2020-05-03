@@ -32,15 +32,9 @@ matrix:
             - ninja-build
             - doxygen
             - graphviz
-            - libsdl2-dev
-            - libsdl2-image-dev
-            - libsdl2-mixer-dev
-            - libsdl2-ttf-dev
-            - libnoise-dev
-            - libopenal-dev
 
       before_script:
-        - cmake -DCMAKE_BUILD_TYPE=Debug -DENABLE_COVERAGE=ON -DUSE_PACKAGE_MANAGER=OFF -DENABLE_ANGELSCRIPT=OFF -DENABLE_MOFILEREADER=OFF .
+        - cmake -DCMAKE_BUILD_TYPE=Debug -DENABLE_COVERAGE=ON .
 
       script:
         - >
@@ -87,7 +81,7 @@ matrix:
         - TARGET="linux"
 
       before_script:
-        - cmake -GNinja -DCMAKE_BUILD_TYPE=Release -DENABLE_ANGELSCRIPT=OFF -DENABLE_MOFILEREADER=OFF .
+        - cmake -GNinja -DCMAKE_BUILD_TYPE=Release .
 
       script:
         - ninja
