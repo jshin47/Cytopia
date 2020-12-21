@@ -1,0 +1,7 @@
+<map id="Sprite::Sprite" name="Sprite::Sprite">
+<area shape="rect" id="node2" href="$isoMath_8cxx.html#a229d5dd54cd4e1f43ed5911e4fd266d3" title="converts coordinates from isometric to screen space The given isometric coordinates (which contain he..." alt="" coords="160,97,387,123"/>
+<area shape="rect" id="node3" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="437,5,601,47"/>
+<area shape="rect" id="node4" href="$classCamera.html#a8521826d32e55e2cc92fee0fcd10ea8b" title="Camera::cameraOffset" alt="" coords="435,71,604,98"/>
+<area shape="rect" id="node5" href="$classCamera.html#a72f8d27fc42f8292cc319084409d718e" title="Camera::zoomLevel" alt="" coords="443,122,595,149"/>
+<area shape="rect" id="node6" href="$classCamera.html#a96eee891e27570059e7ef82916dce1c1" title="Camera::tileSize" alt="" coords="455,173,584,199"/>
+</map>

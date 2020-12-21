@@ -1,0 +1,4 @@
+<map id="Sprite" name="Sprite">
+<area shape="rect" id="node2" href="$classPoint.html" title="{Point\n|+ x\l+ y\l+ z\l+ height\l|+ operator==()\l+ operator!=()\l+ INVALID()\l}" alt="" coords="5,5,129,156"/>
+<area shape="rect" id="node3" href="$structSpriteRGBColor.html" title="{SpriteRGBColor\n|+ r\l+ g\l+ b\l|}" alt="" coords="154,27,277,134"/>
+</map>

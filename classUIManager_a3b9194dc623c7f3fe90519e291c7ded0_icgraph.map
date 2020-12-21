@@ -1,0 +1,8 @@
+<map id="UIManager::scaleCenterButtonImage" name="UIManager::scaleCenterButtonImage">
+<area shape="rect" id="node2" href="$classUIManager.html#a007e9b56a4835b98db2b203df96ea79d" title="Draws the tile (defined by the string, tiledata pair) onto the button. " alt="" coords="273,5,476,47"/>
+<area shape="rect" id="node3" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="524,13,733,39"/>
+<area shape="rect" id="node4" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="781,13,903,39"/>
+<area shape="rect" id="node5" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="begins the game starts running the game " alt="" coords="951,13,1041,39"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1089,13,1213,39"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1261,13,1316,39"/>
+</map>

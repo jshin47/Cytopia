@@ -1,0 +1,10 @@
+<map id="src/services/GameClock.hxx" name="src/services/GameClock.hxx">
+<area shape="rect" id="node7" href="$GameService_8hxx.html" title="../GameService.hxx" alt="" coords="624,80,773,107"/>
+<area shape="rect" id="node22" href="$GameClock_8inl_8hxx.html" title="GameClock.inl.hxx" alt="" coords="849,80,994,107"/>
+<area shape="rect" id="node8" href="$Events_8hxx.html" title="Events.hxx" alt="" coords="481,155,575,181"/>
+<area shape="rect" id="node21" href="$GameService_8inl_8hxx.html" title="GameService.inl.hxx" alt="" coords="616,155,773,181"/>
+<area shape="rect" id="node11" href="$Meta_8hxx.html" title="util/Meta.hxx" alt="" coords="155,379,261,405"/>
+<area shape="rect" id="node16" href="$UIEvents_8hxx.html" title="events/UIEvents.hxx" alt="" coords="450,229,606,256"/>
+<area shape="rect" id="node17" href="$ActivityType_8hxx.html" title="../activity/ActivityType.hxx" alt="" coords="416,304,611,331"/>
+<area shape="rect" id="node18" href="$Observer_8hxx.html" title="../util/Observer.hxx" alt="" coords="246,304,391,331"/>
+</map>

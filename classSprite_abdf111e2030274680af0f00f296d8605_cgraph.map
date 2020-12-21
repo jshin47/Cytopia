@@ -1,0 +1,10 @@
+<map id="Sprite::render" name="Sprite::render">
+<area shape="rect" id="node2" href="$classMapLayers.html#a1d810628821913c499b8348107b66891" title="Check if given Layer is being drawn. " alt="" coords="164,118,352,145"/>
+<area shape="rect" id="node6" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="682,140,833,181"/>
+<area shape="rect" id="node3" href="$classMapLayers.html#ab663dfc9e4c144f904ad85543b66ac8f" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="400,42,616,69"/>
+<area shape="rect" id="node8" href="$classMapLayers.html#a53d7fcd90e70eaf36239d7a75c0c5dda" title="MapLayers::MapLayers" alt="" coords="423,93,593,119"/>
+<area shape="rect" id="node9" href="$classMapLayers.html#aa7fa21110e27ec69f131692b0a510d66" title="MapLayers::~MapLayers" alt="" coords="417,143,599,170"/>
+<area shape="rect" id="node4" href="$classMapLayers.html#a0a64d01a42e8864b78e1bc54007cb7d9" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="664,5,851,47"/>
+<area shape="rect" id="node7" href="$classMapLayers.html#a5db6ba7e194ada6a4d0334d0428ff89b" title="Enable drawing layers. " alt="" coords="664,71,851,98"/>
+<area shape="rect" id="node5" href="$classMapLayers.html#a3b1b1f10dd431fa83e098a20e4c836b9" title="Disable Drawing Layer Disable Drawing Layer ( Turned off by using bitwise AND with inversed pattern) ..." alt="" coords="899,13,1081,39"/>
+</map>

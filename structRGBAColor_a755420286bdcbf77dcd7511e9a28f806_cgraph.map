@@ -1,0 +1,12 @@
+<map id="RGBAColor::RGBAColor" name="RGBAColor::RGBAColor">
+<area shape="rect" id="node2" href="$structRGBAColor.html#ab27257376e621ff4a8862a90ddd1ffab" title="RGBAColor::hue" alt="" coords="246,39,371,65"/>
+<area shape="rect" id="node3" href="$structRGBAColor.html#a8a63c03d13e9427879b4f8f3ce623d69" title="RGBAColor::red" alt="" coords="448,39,571,65"/>
+<area shape="rect" id="node4" href="$structRGBAColor.html#a8523bfbb8c7b8fbbdb8f2ba328079adb" title="RGBAColor::green" alt="" coords="440,140,579,167"/>
+<area shape="rect" id="node5" href="$structRGBAColor.html#a959baeeec5e43348b7bd901bbc31f8f8" title="RGBAColor::blue" alt="" coords="445,89,574,116"/>
+<area shape="rect" id="node6" href="$structRGBAColor.html#ab835dd9b5967615be31d7087a0499607" title="RGBAColor::lightness" alt="" coords="229,89,389,116"/>
+<area shape="rect" id="node7" href="$structRGBAColor.html#a8de2a717601cc3fba0e65c6e4e7e1524" title="RGBAColor::saturation" alt="" coords="225,140,392,167"/>
+<area shape="rect" id="node8" href="$structRGBAColor.html#ab9156bde0e82ab0ead3c14a4458eb054" title="RGBAColor::alpha" alt="" coords="240,292,377,319"/>
+<area shape="rect" id="node9" href="$WindowManager_8hxx.html#a14f743ccc2b88b078f0c72e8c9baf74b" title="deprecated" alt="" coords="261,343,356,369"/>
+<area shape="rect" id="node10" href="$structRGBAColor.html#aba740eb0cce3571dbb4af983ab7d055d" title="RGBAColor::to_SDL" alt="" coords="235,393,382,420"/>
+<area shape="rect" id="node11" href="$structRGBAColor.html#a3cd700ece11761d8cfeb8a8e69813cd2" title="RGBAColor::fromHSLA" alt="" coords="225,444,392,471"/>
+</map>

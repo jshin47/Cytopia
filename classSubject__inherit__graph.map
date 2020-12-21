@@ -1,0 +1,12 @@
+<map id="Subject&lt; Data, DispatchPolicy &gt;" name="Subject&lt; Data, DispatchPolicy &gt;">
+<area shape="rect" id="node3" href="$classSubject.html" title="{Subject\&lt; Transition\l\&lt; Model \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="27,367,177,518"/>
+<area shape="rect" id="node5" href="$classSubject.html" title="{Subject\&lt; VariantType\l\&lt; ButtonNotifications\l \&gt;, UIMQDispatcher\&lt; VariantType\l\&lt; ButtonNotifications \&gt; \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="195,549,436,729"/>
+<area shape="rect" id="node8" href="$classSubject.html" title="{Subject\&lt; VariantType\l\&lt; DataList \&gt;, UIMQDispatcher\l\&lt; VariantType\&lt; DataList \&gt; \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="453,360,679,525"/>
+<area shape="rect" id="node12" href="$classSubject.html" title="{Subject\&lt; VariantType\l\&lt; MouseStateNotification\l \&gt;, UIMQDispatcher\&lt; VariantType\l\&lt; MouseStateNotification \&gt; \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="689,549,931,729"/>
+<area shape="rect" id="node4" href="$classTransitiveModel.html" title="{TransitiveModel\&lt; Model \&gt;\n|&#45; m_Filters\l|+ subscribe()\l# TransitiveModel()\l&#45; mustNotify()\l}" alt="" coords="5,753,199,860"/>
+<area shape="rect" id="node6" href="$structDataModel.html" title="{DataModel\&lt; ButtonNotifications \&gt;\n||+ DataModel()\l}" alt="" coords="237,923,484,1000"/>
+<area shape="rect" id="node7" href="$classButtonState.html" title="{ButtonState\n|&#45; m_Status\l|+ setStatus()\l+ ~ButtonState()\l}" alt="" coords="293,1057,428,1149"/>
+<area shape="rect" id="node9" href="$structDataModel.html" title="{DataModel\&lt; DataList \&gt;\n||+ DataModel()\l}" alt="" coords="478,768,654,845"/>
+<area shape="rect" id="node10" href="$structDataModel.html" title="{DataModel\&lt; MouseStateNotification \&gt;\n||+ DataModel()\l}" alt="" coords="591,923,864,1000"/>
+<area shape="rect" id="node11" href="$classMouseState.html" title="{MouseState\n|&#45; m_Model\l|+ setPosition()\l+ setCursor()\l+ ~MouseState()\l}" alt="" coords="660,1049,795,1156"/>
+</map>

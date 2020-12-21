@@ -1,0 +1,24 @@
+<map id="src/activity/iActivity.hxx" name="src/activity/iActivity.hxx">
+<area shape="rect" id="node4" href="$iLayout_8hxx.html" title="../layout/iLayout.hxx" alt="" coords="1811,80,1966,107"/>
+<area shape="rect" id="node15" href="$iViewElement_8hxx.html" title="../view/iViewElement.hxx" alt="" coords="1479,155,1666,181"/>
+<area shape="rect" id="node34" href="$GameService_8hxx.html" title="../GameService.hxx" alt="" coords="2131,80,2281,107"/>
+<area shape="rect" id="node38" href="$ActivityType_8hxx.html" title="../activity/ActivityType.hxx" alt="" coords="2447,304,2642,331"/>
+<area shape="rect" id="node41" href="$iModel_8hxx.html" title="../model/iModel.hxx" alt="" coords="1223,80,1373,107"/>
+<area shape="rect" id="node42" href="$iActivity_8inl_8hxx.html" title="iActivity.inl.hxx" alt="" coords="2767,80,2890,107"/>
+<area shape="rect" id="node6" href="$Range_8hxx.html" title="../util/Range.hxx" alt="" coords="1870,155,1998,181"/>
+<area shape="rect" id="node14" href="$iView_8hxx.html" title="../view/iView.hxx" alt="" coords="1500,229,1632,256"/>
+<area shape="rect" id="node16" href="$BoxSizing_8hxx.html" title="BoxSizing.hxx" alt="" coords="1657,229,1771,256"/>
+<area shape="rect" id="node8" href="$Meta_8hxx.html" title="../util/Meta.hxx" alt="" coords="1725,453,1844,480"/>
+<area shape="rect" id="node13" href="$Range_8inl_8hxx.html" title="Range.inl.hxx" alt="" coords="1891,229,2001,256"/>
+<area shape="rect" id="node18" href="$Rectangle_8hxx.html" title="Rectangle.hxx" alt="" coords="1098,229,1213,256"/>
+<area shape="rect" id="node17" href="$BoxSizing_8inl_8hxx.html" title="BoxSizing.inl.hxx" alt="" coords="1612,304,1747,331"/>
+<area shape="rect" id="node19" href="$iShape_8hxx.html" title="../util/iShape.hxx" alt="" coords="1193,304,1323,331"/>
+<area shape="rect" id="node20" href="$Rectangle_8inl_8hxx.html" title="Rectangle.inl.hxx" alt="" coords="875,304,1009,331"/>
+<area shape="rect" id="node22" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="597,379,674,405"/>
+<area shape="rect" id="node24" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="46,453,161,480"/>
+<area shape="rect" id="node33" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="777,453,875,480"/>
+<area shape="rect" id="node35" href="$Events_8hxx.html" title="Events.hxx" alt="" coords="2309,155,2404,181"/>
+<area shape="rect" id="node40" href="$GameService_8inl_8hxx.html" title="GameService.inl.hxx" alt="" coords="2127,155,2285,181"/>
+<area shape="rect" id="node36" href="$UIEvents_8hxx.html" title="events/UIEvents.hxx" alt="" coords="2336,229,2492,256"/>
+<area shape="rect" id="node39" href="$Observer_8hxx.html" title="../util/Observer.hxx" alt="" coords="2064,304,2209,331"/>
+</map>

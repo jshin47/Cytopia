@@ -1,0 +1,13 @@
+<map id="src/view/CursorView.hxx" name="src/view/CursorView.hxx">
+<area shape="rect" id="node4" href="$MouseState_8hxx.html" title="../model/MouseState.hxx" alt="" coords="837,80,1019,107"/>
+<area shape="rect" id="node6" href="$DataModel_8hxx.html" title="DataModel.hxx" alt="" coords="868,155,988,181"/>
+<area shape="rect" id="node7" href="$iModel_8hxx.html" title="iModel.hxx" alt="" coords="1037,304,1131,331"/>
+<area shape="rect" id="node8" href="$Observer_8hxx.html" title="../util/Observer.hxx" alt="" coords="710,528,855,555"/>
+<area shape="rect" id="node15" href="$MessageQueue_8hxx.html" title="../engine/MessageQueue.hxx" alt="" coords="469,304,678,331"/>
+<area shape="rect" id="node26" href="$UIMQDispatcher_8hxx.html" title="../engine/UIMQDispatcher.hxx" alt="" coords="747,229,962,256"/>
+<area shape="rect" id="node10" href="$Meta_8hxx.html" title="Meta.hxx" alt="" coords="403,603,485,629"/>
+<area shape="rect" id="node21" href="$Events_8hxx.html" title="../Events.hxx" alt="" coords="69,379,176,405"/>
+<area shape="rect" id="node25" href="$MessageQueue_8inl_8hxx.html" title="MessageQueue.inl.hxx" alt="" coords="742,379,911,405"/>
+<area shape="rect" id="node23" href="$UIEvents_8hxx.html" title="events/UIEvents.hxx" alt="" coords="261,453,417,480"/>
+<area shape="rect" id="node24" href="$ActivityType_8hxx.html" title="../activity/ActivityType.hxx" alt="" coords="160,528,355,555"/>
+</map>

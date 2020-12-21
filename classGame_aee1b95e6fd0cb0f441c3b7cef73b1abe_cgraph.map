@@ -1,0 +1,6 @@
+<map id="Game::shutdown" name="Game::shutdown">
+<area shape="rect" id="node2" href="$classMessageQueue.html#adcb13704f695c1b895063bc942691aeb" title="Push an event on the Queue. " alt="" coords="215,5,375,32"/>
+<area shape="rect" id="node3" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="185,57,405,98"/>
+<area shape="rect" id="node4" href="$classResourcesManager.html#a262f5add535cf8331528d631d9b6beff" title="ResourcesManager::flush" alt="" coords="204,123,387,149"/>
+<area shape="rect" id="node5" href="$classUIManager.html#af5dcbcdff24c786ab0bdefa0e76ef23d" title="Destroy the UIElements early. " alt="" coords="230,173,361,200"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="convertScreenToIsoCoordinates" name="convertScreenToIsoCoordinates">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="513,5,670,47"/>
+<area shape="rect" id="node3" href="$classMap.html#a64e71e521c539cf28828be9978c34889" title="Returns the node at given screencoordinates. " alt="" coords="292,75,447,102"/>
+<area shape="rect" id="node4" href="$isoMath_8cxx.html#a0a076d973bc64ffa7859b894793c8000" title="Calculates screen space coordinates to isometric space coordinates. A formula is used to calculate th..." alt="" coords="280,126,459,153"/>
+<area shape="rect" id="node5" href="$classCamera.html#a8521826d32e55e2cc92fee0fcd10ea8b" title="Camera::cameraOffset" alt="" coords="507,75,676,102"/>
+<area shape="rect" id="node6" href="$classCamera.html#a72f8d27fc42f8292cc319084409d718e" title="Camera::zoomLevel" alt="" coords="515,126,667,153"/>
+<area shape="rect" id="node7" href="$classCamera.html#a96eee891e27570059e7ef82916dce1c1" title="Camera::tileSize" alt="" coords="527,177,656,203"/>
+</map>

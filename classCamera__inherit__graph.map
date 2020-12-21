@@ -1,0 +1,4 @@
+<map id="Camera" name="Camera">
+<area shape="rect" id="node2" href="$classSingleton.html" title="{Singleton\&lt; Camera \&gt;\n||+ instance()\l# Singleton()\l# ~Singleton()\l}" alt="" coords="33,175,197,281"/>
+<area shape="rect" id="node3" href="$classSingleton.html" title="Abstract Singleton implementation. " alt="" coords="55,5,176,112"/>
+</map>

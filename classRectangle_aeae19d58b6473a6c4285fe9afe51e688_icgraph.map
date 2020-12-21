@@ -1,0 +1,8 @@
+<map id="Rectangle::EMPTY" name="Rectangle::EMPTY">
+<area shape="rect" id="node2" href="$classPixelBuffer.html#a5402df89a5dc5b23594a697285f21e34" title="Scale the pixel buffer using nearest&#45;neighbor in both dimensions. " alt="" coords="409,5,544,32"/>
+<area shape="rect" id="node4" href="$classPixelBuffer.html#ae09c4ca3f5db07bf6ab22d8cfea9122c" title="PixelBuffer::EMPTY" alt="" coords="204,43,348,69"/>
+<area shape="rect" id="node5" href="$classRectangle.html#a4489166815bd21aabea7a321392f1c5a" title="Intersects with another rectangle. " alt="" coords="201,93,351,120"/>
+<area shape="rect" id="node7" href="$classRectangle.html#a029e5e04247e35336b5a45a08fc65e18" title="Scales by Factor around the center of the Rectangle. " alt="" coords="191,144,361,171"/>
+<area shape="rect" id="node3" href="$classCursorView.html#a31952d744480fd52f49aa3d552a90f9f" title="CursorView::CursorView" alt="" coords="592,43,769,69"/>
+<area shape="rect" id="node6" href="$classPixelBuffer.html#abbad3bec56ca536a543c42024045c99d" title="Crop the pixel buffer around a region. " alt="" coords="412,68,541,95"/>
+</map>

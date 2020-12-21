@@ -1,0 +1,5 @@
+<map id="Rectangle::to_SDL" name="Rectangle::to_SDL">
+<area shape="rect" id="node2" href="$classSDLRenderer.html#a6541b0f4cc60e8fe20cc6fb0bec97f1b" title="SDLRenderer::drawText" alt="" coords="201,5,373,32"/>
+<area shape="rect" id="node3" href="$classSDLRenderer.html#adccd397815cc5c7dbc61d93ce04e2439" title="SDLRenderer::drawPicture" alt="" coords="192,56,383,83"/>
+<area shape="rect" id="node4" href="$classSDLRenderer.html#a437321420e34cd050515bdcd59b3add4" title="SDLRenderer::drawShape" alt="" coords="195,107,380,133"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="src/renderer/SDLRenderer.cxx" name="src/renderer/SDLRenderer.cxx">
+<area shape="rect" id="node2" href="$SDLRenderer_8hxx.html" title="SDLRenderer.hxx" alt="" coords="627,155,759,181"/>
+<area shape="rect" id="node17" href="$Exception_8hxx.html" title="../util/Exception.hxx" alt="" coords="28,453,179,480"/>
+<area shape="rect" id="node20" href="$LOG_8hxx.html" title="../util/LOG.hxx" alt="" coords="773,379,887,405"/>
+<area shape="rect" id="node29" href="$Filesystem_8hxx.html" title="../util/Filesystem.hxx" alt="" coords="1307,80,1465,107"/>
+<area shape="rect" id="node38" href="$Settings_8hxx.html" title="../engine/basics/Settings.hxx" alt="" coords="1598,155,1806,181"/>
+<area shape="rect" id="node6" href="$iRenderer_8hxx.html" title="iRenderer.hxx" alt="" coords="637,229,748,256"/>
+<area shape="rect" id="node10" href="$Color_8hxx.html" title="../util/Color.hxx" alt="" coords="295,304,415,331"/>
+<area shape="rect" id="node13" href="$iShape_8hxx.html" title="../util/iShape.hxx" alt="" coords="698,304,829,331"/>
+<area shape="rect" id="node14" href="$Meta_8hxx.html" title="../util/Meta.hxx" alt="" coords="1267,453,1385,480"/>
+<area shape="rect" id="node28" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="933,453,1031,480"/>
+<area shape="rect" id="node31" href="$PixelBuffer_8hxx.html" title="../util/PixelBuffer.hxx" alt="" coords="1133,155,1290,181"/>
+<area shape="rect" id="node32" href="$Rectangle_8hxx.html" title="../util/Rectangle.hxx" alt="" coords="1119,229,1269,256"/>
+<area shape="rect" id="node34" href="$Range_8hxx.html" title="../util/Range.hxx" alt="" coords="1294,229,1422,256"/>
+<area shape="rect" id="node37" href="$PixelBuffer_8inl_8hxx.html" title="PixelBuffer.inl.hxx" alt="" coords="955,229,1095,256"/>
+<area shape="rect" id="node33" href="$Rectangle_8inl_8hxx.html" title="Rectangle.inl.hxx" alt="" coords="955,304,1089,331"/>
+<area shape="rect" id="node36" href="$Range_8inl_8hxx.html" title="Range.inl.hxx" alt="" coords="1361,304,1472,331"/>
+<area shape="rect" id="node39" href="$Singleton_8hxx.html" title="../../util/Singleton.hxx" alt="" coords="1699,229,1859,256"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="UIManager::setCallbackFunctions" name="UIManager::setCallbackFunctions">
+<area shape="rect" id="node2" href="$classUIElement.html#a6451228b4c9bc058d69e4d4f2b03c719" title="UIElement::getUiElementData" alt="" coords="576,17,795,44"/>
+<area shape="rect" id="node3" href="$classButton.html#a076af7f94be44c9b450911ae4664f23f" title="Button::checkState" alt="" coords="613,119,758,145"/>
+<area shape="rect" id="node4" href="$namespaceSignal.html#a6e0df6c5db8c544e147a57b4d89171ca" title="This function creates a std::function by binding object to the member function pointer method..." alt="" coords="362,169,457,196"/>
+<area shape="rect" id="node5" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="855,350,1013,391"/>
+<area shape="rect" id="node6" href="$classEngine.html#a0ba57971ffb5173ecc425461f65a4cd8" title="Quits the game Sets m_running to false and quitting the game. " alt="" coords="340,545,479,572"/>
+<area shape="rect" id="node7" href="$classEngine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="615,612,756,639"/>
+<area shape="rect" id="node9" href="$classMapLayers.html#ab663dfc9e4c144f904ad85543b66ac8f" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="301,444,517,471"/>
+<area shape="rect" id="node13" href="$classTileManager.html#a8ee071ff8b24926288437d310f9bc714" title="TileManager::getTileData" alt="" coords="316,596,503,623"/>
+<area shape="rect" id="node14" href="$classUIManager.html#a23bbbe53c18c31ff1c68c105dfa0dbd3" title="Callback function for toggling the visibility of an UiGroup Callback function for Ui Widgets with the..." alt="" coords="291,68,528,95"/>
+<area shape="rect" id="node16" href="$classEngine.html#a260d4834150eae6eec2bde34df6dc827" title="Creates a new game Creates a new game. " alt="" coords="615,220,755,247"/>
+<area shape="rect" id="node17" href="$classEngine.html#ab5a909990be40701ebb4b57c3e716ed4" title="Engine::saveGame" alt="" coords="337,271,481,297"/>
+<area shape="rect" id="node19" href="$classSettings.html#a53285dd5cbd5bfafe155187c74150dde" title="Save settings to file. " alt="" coords="340,655,479,681"/>
+<area shape="rect" id="node8" href="$classMap.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="851,612,1017,639"/>
+<area shape="rect" id="node10" href="$classMapLayers.html#a0a64d01a42e8864b78e1bc54007cb7d9" title="Toggle Drawing Layer Toggle Drawing Layer (use bitwise XOR to toggle layer) " alt="" coords="592,546,779,587"/>
+<area shape="rect" id="node12" href="$classMapLayers.html#a5db6ba7e194ada6a4d0334d0428ff89b" title="Enable drawing layers. " alt="" coords="592,495,779,521"/>
+<area shape="rect" id="node11" href="$classMapLayers.html#a3b1b1f10dd431fa83e098a20e4c836b9" title="Disable Drawing Layer Disable Drawing Layer ( Turned off by using bitwise AND with inversed pattern) ..." alt="" coords="843,553,1025,580"/>
+<area shape="rect" id="node15" href="$classUIManager.html#acf39ddcfeee8509c4292b6263cd57ad2" title="Close all open menus but the build menu. " alt="" coords="580,68,791,95"/>
+<area shape="rect" id="node18" href="$classMap.html#ae48ef4fa6a6f73d886211bca59123151" title="Map::saveMapToFile" alt="" coords="610,271,761,297"/>
+<area shape="rect" id="node20" href="$namespacefs.html#a9ce6574c55b8154911dfa170003ef14e" title="fs::writeStringToFile" alt="" coords="611,663,760,689"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="iModel" name="iModel">
+<area shape="rect" id="node2" href="$structDataModel.html" title="{DataModel\&lt; DataList \&gt;\n||+ DataModel()\l}" alt="" coords="225,132,401,209"/>
+<area shape="rect" id="node3" href="$structDataModel.html" title="{DataModel\&lt; MouseStateNotification \&gt;\n||+ DataModel()\l}" alt="" coords="5,272,279,349"/>
+<area shape="rect" id="node5" href="$structDataModel.html" title="{DataModel\&lt; ButtonNotifications \&gt;\n||+ DataModel()\l}" alt="" coords="369,272,616,349"/>
+<area shape="rect" id="node4" href="$classMouseState.html" title="{MouseState\n|&#45; m_Model\l|+ setPosition()\l+ setCursor()\l+ ~MouseState()\l}" alt="" coords="75,399,209,505"/>
+<area shape="rect" id="node6" href="$classButtonState.html" title="{ButtonState\n|&#45; m_Status\l|+ setStatus()\l+ ~ButtonState()\l}" alt="" coords="425,406,560,498"/>
+</map>

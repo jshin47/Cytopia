@@ -1,0 +1,13 @@
+<map id="src/layout/iLayout.hxx" name="src/layout/iLayout.hxx">
+<area shape="rect" id="node2" href="$iActivity_8hxx.html" title="src/activity/iActivity.hxx" alt="" coords="218,80,397,107"/>
+<area shape="rect" id="node12" href="$iLayout_8cxx.html" title="src/layout/iLayout.cxx" alt="" coords="421,80,586,107"/>
+<area shape="rect" id="node3" href="$iActivity_8cxx.html" title="src/activity/iActivity.cxx" alt="" coords="5,229,183,256"/>
+<area shape="rect" id="node4" href="$Window_8hxx.html" title="src/view/Window.hxx" alt="" coords="441,155,600,181"/>
+<area shape="rect" id="node5" href="$Camera_8cxx.html" title="src/engine/basics/Camera.cxx" alt="" coords="207,229,423,256"/>
+<area shape="rect" id="node6" href="$Map_8cxx.html" title="src/engine/Map.cxx" alt="" coords="447,229,594,256"/>
+<area shape="rect" id="node7" href="$WindowManager_8cxx.html" title="src/engine/WindowManager.cxx" alt="" coords="618,229,845,256"/>
+<area shape="rect" id="node8" href="$Game_8hxx.html" title="src/Game.hxx" alt="" coords="869,229,981,256"/>
+<area shape="rect" id="node11" href="$Window_8cxx.html" title="src/view/Window.cxx" alt="" coords="1005,229,1164,256"/>
+<area shape="rect" id="node9" href="$Game_8cxx.html" title="src/Game.cxx" alt="" coords="803,304,913,331"/>
+<area shape="rect" id="node10" href="$main_8cxx.html" title="src/main.cxx" alt="" coords="937,304,1043,331"/>
+</map>

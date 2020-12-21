@@ -1,0 +1,8 @@
+<map id="ComboBox::registerCallbackFunction" name="ComboBox::registerCallbackFunction">
+<area shape="rect" id="node2" href="$classComboBox.html#a6c15ed04bb4eee2130939e9e2045a5eb" title="ComboBox::count" alt="" coords="260,5,397,32"/>
+<area shape="rect" id="node3" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="445,23,640,65"/>
+<area shape="rect" id="node4" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="688,31,809,57"/>
+<area shape="rect" id="node5" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="begins the game starts running the game " alt="" coords="857,31,948,57"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="996,31,1120,57"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1168,31,1223,57"/>
+</map>

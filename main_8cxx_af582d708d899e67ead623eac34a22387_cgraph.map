@@ -1,0 +1,51 @@
+<map id="protected_main" name="protected_main">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="967,818,1117,859"/>
+<area shape="rect" id="node3" href="$classSettings.html#ad406e891cb98bd6f06de1a21641fc04c" title="Parses command line arguments to override settings. " alt="" coords="177,1863,332,1889"/>
+<area shape="rect" id="node4" href="$classGame.html#afa220e533b80333d5b3c8dbba01fdd16" title="starts setting up the game starts game initialization. " alt="" coords="674,132,799,159"/>
+<area shape="rect" id="node10" href="$classGame.html#a560299f0291c281f7b44e7ef0dd7b264" title="initializes and displays the main menu initializes and displays the main menu " alt="" coords="186,1280,323,1307"/>
+<area shape="rect" id="node35" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="begins the game starts running the game " alt="" coords="430,496,521,523"/>
+<area shape="rect" id="node47" href="$classGame.html#aee1b95e6fd0cb0f441c3b7cef73b1abe" title="ends the game shuts down the game " alt="" coords="671,1812,803,1839"/>
+<area shape="rect" id="node5" href="$namespacefs.html#a28e4c1324680c188092ecfe5fd8a91a3" title="fs::getBasePath" alt="" coords="981,208,1103,235"/>
+<area shape="rect" id="node6" href="$classLayout.html#ac550e3bcce9f0729344b89a4964f6f77" title="Sets the Window. " alt="" coords="969,107,1115,133"/>
+<area shape="rect" id="node7" href="$classEventManager.html#a8df81e2a0e2bf47ce0b5e457029e9a77" title="EventManager::setWindow" alt="" coords="945,157,1139,184"/>
+<area shape="rect" id="node8" href="$classMap.html#a4e68b9e89e55a88b5f64c835e9dac626" title="Sets the Window. " alt="" coords="977,5,1107,32"/>
+<area shape="rect" id="node9" href="$classCamera.html#a9f6787c6114305e12aa8aa80b0bae690" title="Sets the window. " alt="" coords="965,56,1119,83"/>
+<area shape="rect" id="node11" href="$classWindow.html#a4959f94d75af5e975fb117f5ea0ef077" title="Window::getBounds" alt="" coords="967,1331,1117,1357"/>
+<area shape="rect" id="node12" href="$classRectangle.html#a6d7591d194230afb71ac2efcb8fd782f" title="Rectangle::width" alt="" coords="977,1255,1107,1281"/>
+<area shape="rect" id="node14" href="$classRectangle.html#a21cbebe8e941c0c92d7eba0f7badcb6a" title="Rectangle::height" alt="" coords="975,1204,1109,1231"/>
+<area shape="rect" id="node15" href="$classUIElement.html#a452ffed1ff191ababc8c15d4c455f6c2" title="Set the uiElements sprite ID Set the sprite ID this ui element. The texture will be retrieved from th..." alt="" coords="385,1153,565,1180"/>
+<area shape="rect" id="node17" href="$classUIElement.html#a440d645aa10dbf7d3c763ba6e1fc33a6" title="Sets the UI Elements visibility. Set the UI Elements visibility. " alt="" coords="388,1103,563,1129"/>
+<area shape="rect" id="node18" href="$classUIElement.html#a4c86f107c0e436dbeea3a899fc42fa48" title="Sets the x,y position of this ui element Sets the x,y position of the ui element. ..." alt="" coords="390,1255,561,1281"/>
+<area shape="rect" id="node19" href="$classUIElement.html#ad1c0d7431b71bdd9a3704a6d5c8a4643" title="Get the position and the size of this ui element Gets the position and the size of this ui element..." alt="" coords="629,1660,844,1687"/>
+<area shape="rect" id="node21" href="$classUIElement.html#a570841bf8b7970ca935b1a00e571036a" title="Handling for the hovering event Check, if the mouse cursor is hovering over the element. virtual function to provide custom handling if necessary (e.g. Combobox) Per default, it&#39;s the same implementation as isMouseOver. " alt="" coords="903,1609,1181,1636"/>
+<area shape="rect" id="node22" href="$classText.html#a14b9f0937696af5fd95317eb8313bf92" title="sets the text for this text widget. " alt="" coords="423,315,527,341"/>
+<area shape="rect" id="node24" href="$classButton.html#ac6a233c876164a52d54ef7f1b3fb78d1" title="Sets the button&#39;s text sets the button&#39;s text to the string passed as an argument. " alt="" coords="415,1407,535,1433"/>
+<area shape="rect" id="node26" href="$classEngine.html#a260d4834150eae6eec2bde34df6dc827" title="Creates a new game Creates a new game. " alt="" coords="667,876,807,903"/>
+<area shape="rect" id="node27" href="$classEngine.html#a83b7dbeee899b36a13d5b07c7ad87ebc" title="Loads a saved game Loads a saved Game. " alt="" coords="1232,1167,1373,1193"/>
+<area shape="rect" id="node29" href="$classGame.html#a8272be134d16c277bb014ad6a22fc357" title="Game::quit" alt="" coords="689,1103,784,1129"/>
+<area shape="rect" id="node31" href="$classImage.html#aea00862523c7a5c9551655f2660d91a8" title="sets the opacity of the image " alt="" coords="405,1508,546,1535"/>
+<area shape="rect" id="node32" href="$classUIElement.html#a43b9f5f4be71c672ca8ed528fce1dfc5" title="UIElement::onMouseLeave" alt="" coords="945,1407,1139,1433"/>
+<area shape="rect" id="node33" href="$classUIElement.html#a8e089719777f393d720e3cb1708f8070" title="UIElement::onMouseMove" alt="" coords="947,1711,1137,1737"/>
+<area shape="rect" id="node34" href="$classUIElement.html#aaf7e8be5b7a5668c0b8aab27d01d6a30" title="UIElement::onMouseEnter" alt="" coords="380,1559,571,1585"/>
+<area shape="rect" id="node13" href="$classRectangle.html#ace89ac3a7085543f3f60449fb5cdc8af" title="Rectangle::isEmpty" alt="" coords="1229,1229,1376,1256"/>
+<area shape="rect" id="node16" href="$classResourcesManager.html#aae2a2032792aaa57862eb9c494ae1cf2" title="ResourcesManager::getUITexture" alt="" coords="619,1255,854,1281"/>
+<area shape="rect" id="node20" href="$classUIElement.html#aa7f624963eaeb31043d74219ee24386c" title="Checks if the mouse cursor is over the current UI Element Check if the coordinates match the ones sto..." alt="" coords="951,1660,1133,1687"/>
+<area shape="rect" id="node23" href="$classText.html#a3bf5a064fd37d06b8d3dc5a700556897" title="Draws a text string to the screen Draws a text string to the screen. This could either be a standalon..." alt="" coords="650,183,823,209"/>
+<area shape="rect" id="node25" href="$classButton.html#af1d30ec3cf56aec6aabbd319e2be8359" title="Button::centerTextLabel" alt="" coords="649,1407,825,1433"/>
+<area shape="rect" id="node28" href="$classMap.html#afefe996cc1f62b61ec60d0ae415953bf" title="Map::loadMapFromFile" alt="" coords="1424,1167,1591,1193"/>
+<area shape="rect" id="node30" href="$classEngine.html#a0ba57971ffb5173ecc425461f65a4cd8" title="Quits the game Sets m_running to false and quitting the game. " alt="" coords="973,1153,1111,1180"/>
+<area shape="rect" id="node36" href="$classTimer.html#a3a8b5272198d029779dc9302a54305a8" title="Start / Reset the timer Starts or restarts the timer. If the timer is already running, it will be stopped and restarted. " alt="" coords="687,385,786,412"/>
+<area shape="rect" id="node38" href="$classTimer.html#a5fd65dd710c8229cb24d02f761a0b15f" title="get elapsed time Returns the time in milliseconds, that has passed since the timer was started..." alt="" coords="650,673,823,700"/>
+<area shape="rect" id="node39" href="$classCamera.html#af29da768f8948f3afbf0a9b43530eb1d" title="Centers camera on the middle of the map. " alt="" coords="631,607,842,649"/>
+<area shape="rect" id="node40" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="676,825,797,852"/>
+<area shape="rect" id="node41" href="$classGameClock.html#ac8fbcec934a3aa3d0d0408ca31f06c2c" title="Registers a new repeated task. " alt="" coords="619,724,855,751"/>
+<area shape="rect" id="node42" href="$classEngine.html#a1999eab07ffd5ff95be50f5849ae9950" title="Checks if game is running Checks if game is running. " alt="" coords="649,775,825,801"/>
+<area shape="rect" id="node43" href="$classEventManager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="634,1153,839,1180"/>
+<area shape="rect" id="node44" href="$classMap.html#a8ffaf087a7bf669a890301a1efad6976" title="Map::renderMap" alt="" coords="673,233,800,260"/>
+<area shape="rect" id="node45" href="$classUIManager.html#a22de5910e7617ccd152d6db497a1dd69" title="Renders all UI Widgets. " alt="" coords="663,284,810,311"/>
+<area shape="rect" id="node46" href="$classUIManager.html#a9d828b6ba20eca64671b224a4d4b642c" title="Helper function to update the FPS Counter. " alt="" coords="626,335,847,361"/>
+<area shape="rect" id="node37" href="$classEventManager.html#a6b80b0ed9a39bf7c1978fb6707cacd06" title="EventManager::registerTimer" alt="" coords="937,385,1147,412"/>
+<area shape="rect" id="node48" href="$classMessageQueue.html#adcb13704f695c1b895063bc942691aeb" title="Push an event on the Queue. " alt="" coords="962,1812,1122,1839"/>
+<area shape="rect" id="node49" href="$classResourcesManager.html#a262f5add535cf8331528d631d9b6beff" title="ResourcesManager::flush" alt="" coords="951,1863,1133,1889"/>
+<area shape="rect" id="node50" href="$classUIManager.html#af5dcbcdff24c786ab0bdefa0e76ef23d" title="Destroy the UIElements early. " alt="" coords="977,1913,1107,1940"/>
+</map>

@@ -1,0 +1,33 @@
+<map id="src/view/Window.hxx" name="src/view/Window.hxx">
+<area shape="rect" id="node4" href="$iActivity_8hxx.html" title="../activity/iActivity.hxx" alt="" coords="1579,304,1746,331"/>
+<area shape="rect" id="node22" href="$iShape_8hxx.html" title="../util/iShape.hxx" alt="" coords="507,677,637,704"/>
+<area shape="rect" id="node24" href="$GameService_8hxx.html" title="../GameService.hxx" alt="" coords="487,379,636,405"/>
+<area shape="rect" id="node26" href="$UIEvents_8hxx.html" title="events/UIEvents.hxx" alt="" coords="671,528,827,555"/>
+<area shape="rect" id="node33" href="$iRenderer_8hxx.html" title="../renderer/iRenderer.hxx" alt="" coords="273,603,455,629"/>
+<area shape="rect" id="node36" href="$CursorView_8hxx.html" title="../view/CursorView.hxx" alt="" coords="1449,80,1620,107"/>
+<area shape="rect" id="node37" href="$MouseState_8hxx.html" title="../model/MouseState.hxx" alt="" coords="1141,155,1323,181"/>
+<area shape="rect" id="node45" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="1696,80,1811,107"/>
+<area shape="rect" id="node48" href="$PixelBuffer_8hxx.html" title="../util/PixelBuffer.hxx" alt="" coords="1291,528,1448,555"/>
+<area shape="rect" id="node50" href="$Window_8inl_8hxx.html" title="Window.inl.hxx" alt="" coords="1835,80,1957,107"/>
+<area shape="rect" id="node7" href="$iLayout_8hxx.html" title="../layout/iLayout.hxx" alt="" coords="1585,453,1740,480"/>
+<area shape="rect" id="node18" href="$iViewElement_8hxx.html" title="../view/iViewElement.hxx" alt="" coords="1703,528,1889,555"/>
+<area shape="rect" id="node28" href="$ActivityType_8hxx.html" title="../activity/ActivityType.hxx" alt="" coords="643,603,837,629"/>
+<area shape="rect" id="node31" href="$iModel_8hxx.html" title="../model/iModel.hxx" alt="" coords="2013,379,2163,405"/>
+<area shape="rect" id="node32" href="$iActivity_8inl_8hxx.html" title="iActivity.inl.hxx" alt="" coords="1865,379,1988,405"/>
+<area shape="rect" id="node9" href="$Range_8hxx.html" title="../util/Range.hxx" alt="" coords="1399,603,1527,629"/>
+<area shape="rect" id="node17" href="$iView_8hxx.html" title="../view/iView.hxx" alt="" coords="1930,603,2062,629"/>
+<area shape="rect" id="node19" href="$BoxSizing_8hxx.html" title="BoxSizing.hxx" alt="" coords="1740,603,1855,629"/>
+<area shape="rect" id="node11" href="$Meta_8hxx.html" title="../util/Meta.hxx" alt="" coords="1027,677,1146,704"/>
+<area shape="rect" id="node16" href="$Range_8inl_8hxx.html" title="Range.inl.hxx" alt="" coords="1275,677,1386,704"/>
+<area shape="rect" id="node21" href="$Rectangle_8hxx.html" title="Rectangle.hxx" alt="" coords="1601,603,1716,629"/>
+<area shape="rect" id="node20" href="$BoxSizing_8inl_8hxx.html" title="BoxSizing.inl.hxx" alt="" coords="1766,677,1901,704"/>
+<area shape="rect" id="node23" href="$Rectangle_8inl_8hxx.html" title="Rectangle.inl.hxx" alt="" coords="1607,677,1742,704"/>
+<area shape="rect" id="node25" href="$Events_8hxx.html" title="Events.hxx" alt="" coords="427,453,522,480"/>
+<area shape="rect" id="node30" href="$GameService_8inl_8hxx.html" title="GameService.inl.hxx" alt="" coords="245,453,403,480"/>
+<area shape="rect" id="node29" href="$Observer_8hxx.html" title="../util/Observer.hxx" alt="" coords="1014,603,1159,629"/>
+<area shape="rect" id="node34" href="$Color_8hxx.html" title="../util/Color.hxx" alt="" coords="867,677,987,704"/>
+<area shape="rect" id="node38" href="$DataModel_8hxx.html" title="DataModel.hxx" alt="" coords="1172,229,1292,256"/>
+<area shape="rect" id="node39" href="$MessageQueue_8hxx.html" title="../engine/MessageQueue.hxx" alt="" coords="770,379,979,405"/>
+<area shape="rect" id="node44" href="$UIMQDispatcher_8hxx.html" title="../engine/UIMQDispatcher.hxx" alt="" coords="1001,304,1215,331"/>
+<area shape="rect" id="node49" href="$PixelBuffer_8inl_8hxx.html" title="PixelBuffer.inl.hxx" alt="" coords="1183,603,1323,629"/>
+</map>

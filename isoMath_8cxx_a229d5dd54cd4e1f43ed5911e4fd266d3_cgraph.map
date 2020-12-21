@@ -1,0 +1,6 @@
+<map id="convertIsoToScreenCoordinates" name="convertIsoToScreenCoordinates">
+<area shape="rect" id="node2" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="283,5,447,47"/>
+<area shape="rect" id="node3" href="$classCamera.html#a8521826d32e55e2cc92fee0fcd10ea8b" title="Camera::cameraOffset" alt="" coords="280,71,449,98"/>
+<area shape="rect" id="node4" href="$classCamera.html#a72f8d27fc42f8292cc319084409d718e" title="Camera::zoomLevel" alt="" coords="289,122,441,149"/>
+<area shape="rect" id="node5" href="$classCamera.html#a96eee891e27570059e7ef82916dce1c1" title="Camera::tileSize" alt="" coords="300,173,429,199"/>
+</map>

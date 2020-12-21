@@ -1,0 +1,12 @@
+<map id="src/view/CursorView.hxx" name="src/view/CursorView.hxx">
+<area shape="rect" id="node2" href="$Window_8hxx.html" title="src/view/Window.hxx" alt="" coords="547,80,705,107"/>
+<area shape="rect" id="node11" href="$CursorView_8cxx.html" title="src/view/CursorView.cxx" alt="" coords="729,80,909,107"/>
+<area shape="rect" id="node3" href="$iActivity_8cxx.html" title="src/activity/iActivity.cxx" alt="" coords="5,155,183,181"/>
+<area shape="rect" id="node4" href="$Camera_8cxx.html" title="src/engine/basics/Camera.cxx" alt="" coords="207,155,423,181"/>
+<area shape="rect" id="node5" href="$Map_8cxx.html" title="src/engine/Map.cxx" alt="" coords="447,155,594,181"/>
+<area shape="rect" id="node6" href="$WindowManager_8cxx.html" title="src/engine/WindowManager.cxx" alt="" coords="618,155,845,181"/>
+<area shape="rect" id="node7" href="$Game_8hxx.html" title="src/Game.hxx" alt="" coords="869,155,981,181"/>
+<area shape="rect" id="node10" href="$Window_8cxx.html" title="src/view/Window.cxx" alt="" coords="1005,155,1164,181"/>
+<area shape="rect" id="node8" href="$Game_8cxx.html" title="src/Game.cxx" alt="" coords="803,229,913,256"/>
+<area shape="rect" id="node9" href="$main_8cxx.html" title="src/main.cxx" alt="" coords="937,229,1043,256"/>
+</map>

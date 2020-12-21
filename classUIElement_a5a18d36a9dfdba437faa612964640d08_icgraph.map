@@ -1,0 +1,8 @@
+<map id="UIElement::setLayoutGroupName" name="UIElement::setLayoutGroupName">
+<area shape="rect" id="node2" href="$classUIManager.html#a5c87a391279c342c25d859eb7f3b144d" title="UIManager::addToLayoutGroup" alt="" coords="293,5,515,32"/>
+<area shape="rect" id="node3" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="820,5,941,32"/>
+<area shape="rect" id="node7" href="$classUIManager.html#aae7a89e9d50bb6192e4140e07bd5f94b" title="UIManager::createBuildMenu" alt="" coords="563,31,772,57"/>
+<area shape="rect" id="node4" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="begins the game starts running the game " alt="" coords="989,5,1080,32"/>
+<area shape="rect" id="node5" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1128,5,1252,32"/>
+<area shape="rect" id="node6" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1300,5,1355,32"/>
+</map>

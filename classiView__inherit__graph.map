@@ -1,0 +1,5 @@
+<map id="iView" name="iView">
+<area shape="rect" id="node2" href="$classiActivity.html" title="{iActivity\n|&#45; m_Window\l&#45; m_States\l|+ iActivity()\l+ ~iActivity()\l# activitySwitch()\l# createState()\l# getWindow()\l}" alt="" coords="5,248,144,399"/>
+<area shape="rect" id="node3" href="$classiLayout.html" title="{iLayout\n|&#45; m_Elements\l&#45; m_PaddingConfiguration\l&#45; m_Bounds\l|+ getPadding()\l+ draw()\l+ iLayout()\l+ ~iLayout()\l+ setup()\l# addElement()\l# setPadding()\l# elements()\l# elements()\l# computeBoundaries()\l# getBounds()\l&#45; setBounds()\l}" alt="" coords="168,189,357,457"/>
+<area shape="rect" id="node4" href="$classiViewElement.html" title="{iViewElement\n|&#45; m_Bounds\l|+ ~iViewElement()\l+ getBounds()\l&#45; setBounds()\l}" alt="" coords="382,270,530,377"/>
+</map>

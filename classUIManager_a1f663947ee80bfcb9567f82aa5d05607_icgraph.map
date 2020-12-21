@@ -1,0 +1,8 @@
+<map id="UIManager::getAllUiElements" name="UIManager::getAllUiElements">
+<area shape="rect" id="node2" href="$classEventManager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="509,5,715,32"/>
+<area shape="rect" id="node6" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="267,54,461,95"/>
+<area shape="rect" id="node3" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="begins the game starts running the game " alt="" coords="763,32,853,59"/>
+<area shape="rect" id="node4" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="901,32,1025,59"/>
+<area shape="rect" id="node5" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1073,32,1128,59"/>
+<area shape="rect" id="node7" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="551,57,673,84"/>
+</map>

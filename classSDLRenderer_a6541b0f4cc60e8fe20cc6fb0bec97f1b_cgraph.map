@@ -1,0 +1,7 @@
+<map id="SDLRenderer::drawText" name="SDLRenderer::drawText">
+<area shape="rect" id="node2" href="$structRGBAColor.html#aba740eb0cce3571dbb4af983ab7d055d" title="RGBAColor::to_SDL" alt="" coords="225,5,372,32"/>
+<area shape="rect" id="node3" href="$classRectangle.html#a8e643108a9d90f031b397c7f561e9b66" title="Rectangle::to_SDL" alt="" coords="229,107,368,133"/>
+<area shape="rect" id="node4" href="$classRectangle.html#a6d7591d194230afb71ac2efcb8fd782f" title="Rectangle::width" alt="" coords="422,81,553,108"/>
+<area shape="rect" id="node6" href="$classRectangle.html#a21cbebe8e941c0c92d7eba0f7badcb6a" title="Rectangle::height" alt="" coords="420,132,555,159"/>
+<area shape="rect" id="node5" href="$classRectangle.html#ace89ac3a7085543f3f60449fb5cdc8af" title="Rectangle::isEmpty" alt="" coords="603,107,749,133"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="src/activity/ActivityType.hxx" name="src/activity/ActivityType.hxx">
+<area shape="rect" id="node2" href="$UIEvents_8hxx.html" title="src/events/UIEvents.hxx" alt="" coords="2226,80,2404,107"/>
+<area shape="rect" id="node5" href="$iActivity_8hxx.html" title="src/activity/iActivity.hxx" alt="" coords="2320,528,2499,555"/>
+<area shape="rect" id="node3" href="$Events_8hxx.html" title="src/Events.hxx" alt="" coords="2043,155,2160,181"/>
+<area shape="rect" id="node7" href="$Window_8hxx.html" title="src/view/Window.hxx" alt="" coords="1934,603,2093,629"/>
+<area shape="rect" id="node4" href="$GameService_8hxx.html" title="src/GameService.hxx" alt="" coords="1006,453,1166,480"/>
+<area shape="rect" id="node6" href="$iActivity_8cxx.html" title="src/activity/iActivity.cxx" alt="" coords="2402,677,2580,704"/>
+<area shape="rect" id="node26" href="$MessageQueue_8hxx.html" title="src/engine/MessageQueue.hxx" alt="" coords="1734,229,1954,256"/>
+<area shape="rect" id="node11" href="$Game_8hxx.html" title="src/Game.hxx" alt="" coords="579,677,691,704"/>
+<area shape="rect" id="node14" href="$Window_8cxx.html" title="src/view/Window.cxx" alt="" coords="1441,677,1600,704"/>
+<area shape="rect" id="node15" href="$Randomizer_8hxx.html" title="src/services/Randomizer.hxx" alt="" coords="310,528,518,555"/>
+<area shape="rect" id="node18" href="$GameClock_8hxx.html" title="src/services/GameClock.hxx" alt="" coords="1193,528,1400,555"/>
+<area shape="rect" id="node21" href="$ResourceManager_8hxx.html" title="src/services/ResourceManager.hxx" alt="" coords="40,528,286,555"/>
+<area shape="rect" id="node23" href="$GameService_8cxx.html" title="src/GameService.cxx" alt="" coords="820,528,978,555"/>
+<area shape="rect" id="node24" href="$iLayout_8cxx.html" title="src/layout/iLayout.cxx" alt="" coords="1003,528,1168,555"/>
+<area shape="rect" id="node25" href="$AudioMixer_8hxx.html" title="src/services/AudioMixer.hxx" alt="" coords="592,528,795,555"/>
+<area shape="rect" id="node8" href="$Camera_8cxx.html" title="src/engine/basics/Camera.cxx" alt="" coords="1906,677,2122,704"/>
+<area shape="rect" id="node9" href="$Map_8cxx.html" title="src/engine/Map.cxx" alt="" coords="2146,677,2292,704"/>
+<area shape="rect" id="node10" href="$WindowManager_8cxx.html" title="src/engine/WindowManager.cxx" alt="" coords="1655,677,1882,704"/>
+<area shape="rect" id="node12" href="$Game_8cxx.html" title="src/Game.cxx" alt="" coords="514,752,625,779"/>
+<area shape="rect" id="node13" href="$main_8cxx.html" title="src/main.cxx" alt="" coords="649,752,754,779"/>
+<area shape="rect" id="node16" href="$AudioMixer_8cxx.html" title="src/services/AudioMixer.cxx" alt="" coords="643,603,846,629"/>
+<area shape="rect" id="node17" href="$Randomizer_8cxx.html" title="src/services/Randomizer.cxx" alt="" coords="412,603,618,629"/>
+<area shape="rect" id="node19" href="$GameClock_8inl_8hxx.html" title="src/services/GameClock.inl.hxx" alt="" coords="1174,603,1400,629"/>
+<area shape="rect" id="node20" href="$GameClock_8cxx.html" title="src/services/GameClock.cxx" alt="" coords="944,603,1150,629"/>
+<area shape="rect" id="node22" href="$ResourceManager_8cxx.html" title="src/services/ResourceManager.cxx" alt="" coords="41,603,285,629"/>
+<area shape="rect" id="node27" href="$DataModel_8hxx.html" title="src/model/DataModel.hxx" alt="" coords="1750,379,1938,405"/>
+<area shape="rect" id="node34" href="$UIMQDispatcher_8hxx.html" title="src/engine/UIMQDispatcher.hxx" alt="" coords="1657,304,1882,331"/>
+<area shape="rect" id="node28" href="$MouseState_8hxx.html" title="src/model/MouseState.hxx" alt="" coords="1886,453,2080,480"/>
+<area shape="rect" id="node32" href="$ButtonState_8hxx.html" title="src/model/ButtonState.hxx" alt="" coords="1607,453,1802,480"/>
+<area shape="rect" id="node29" href="$CursorView_8hxx.html" title="src/view/CursorView.hxx" alt="" coords="1795,528,1976,555"/>
+<area shape="rect" id="node31" href="$MouseState_8cxx.html" title="src/model/MouseState.cxx" alt="" coords="2052,528,2245,555"/>
+<area shape="rect" id="node30" href="$CursorView_8cxx.html" title="src/view/CursorView.cxx" alt="" coords="1730,603,1910,629"/>
+<area shape="rect" id="node33" href="$ButtonState_8cxx.html" title="src/model/ButtonState.cxx" alt="" coords="1576,528,1771,555"/>
+</map>

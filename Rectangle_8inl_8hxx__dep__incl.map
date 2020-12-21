@@ -1,0 +1,37 @@
+<map id="src/util/Rectangle.inl.hxx" name="src/util/Rectangle.inl.hxx">
+<area shape="rect" id="node2" href="$Rectangle_8hxx.html" title="src/util/Rectangle.hxx" alt="" coords="1127,80,1290,107"/>
+<area shape="rect" id="node3" href="$iViewElement_8hxx.html" title="src/view/iViewElement.hxx" alt="" coords="871,155,1069,181"/>
+<area shape="rect" id="node17" href="$PixelBuffer_8hxx.html" title="src/util/PixelBuffer.hxx" alt="" coords="2550,304,2718,331"/>
+<area shape="rect" id="node36" href="$Rectangle_8cxx.html" title="src/util/Rectangle.cxx" alt="" coords="1247,155,1408,181"/>
+<area shape="rect" id="node4" href="$iLayout_8hxx.html" title="src/layout/iLayout.hxx" alt="" coords="732,229,899,256"/>
+<area shape="rect" id="node5" href="$iActivity_8hxx.html" title="src/activity/iActivity.hxx" alt="" coords="567,304,746,331"/>
+<area shape="rect" id="node16" href="$iViewElement_8cxx.html" title="src/view/iViewElement.cxx" alt="" coords="923,229,1121,256"/>
+<area shape="rect" id="node15" href="$iLayout_8cxx.html" title="src/layout/iLayout.cxx" alt="" coords="770,304,935,331"/>
+<area shape="rect" id="node6" href="$iActivity_8cxx.html" title="src/activity/iActivity.cxx" alt="" coords="5,461,183,487"/>
+<area shape="rect" id="node7" href="$Window_8hxx.html" title="src/view/Window.hxx" alt="" coords="577,379,736,405"/>
+<area shape="rect" id="node8" href="$Camera_8cxx.html" title="src/engine/basics/Camera.cxx" alt="" coords="343,461,559,487"/>
+<area shape="rect" id="node9" href="$Map_8cxx.html" title="src/engine/Map.cxx" alt="" coords="583,461,730,487"/>
+<area shape="rect" id="node10" href="$WindowManager_8cxx.html" title="src/engine/WindowManager.cxx" alt="" coords="754,461,981,487"/>
+<area shape="rect" id="node11" href="$Game_8hxx.html" title="src/Game.hxx" alt="" coords="207,461,319,487"/>
+<area shape="rect" id="node14" href="$Window_8cxx.html" title="src/view/Window.cxx" alt="" coords="1005,461,1164,487"/>
+<area shape="rect" id="node12" href="$Game_8cxx.html" title="src/Game.cxx" alt="" coords="2075,543,2185,569"/>
+<area shape="rect" id="node13" href="$main_8cxx.html" title="src/main.cxx" alt="" coords="211,543,316,569"/>
+<area shape="rect" id="node18" href="$Filesystem_8hxx.html" title="src/util/Filesystem.hxx" alt="" coords="2550,379,2718,405"/>
+<area shape="rect" id="node34" href="$CursorView_8cxx.html" title="src/view/CursorView.cxx" alt="" coords="4696,461,4876,487"/>
+<area shape="rect" id="node35" href="$PixelBuffer_8cxx.html" title="src/util/PixelBuffer.cxx" alt="" coords="2793,379,2960,405"/>
+<area shape="rect" id="node19" href="$Settings_8cxx.html" title="src/engine/basics/Settings.cxx" alt="" coords="3902,461,4121,487"/>
+<area shape="rect" id="node20" href="$TerrainGenerator_8cxx.html" title="src/engine/map/TerrainGenerator.cxx" alt="" coords="4145,461,4406,487"/>
+<area shape="rect" id="node21" href="$ResourcesManager_8cxx.html" title="src/engine/ResourcesManager.cxx" alt="" coords="4431,461,4672,487"/>
+<area shape="rect" id="node22" href="$TileManager_8cxx.html" title="src/engine/TileManager.cxx" alt="" coords="1188,461,1387,487"/>
+<area shape="rect" id="node23" href="$Text_8cxx.html" title="src/engine/ui/widgets\l/Text.cxx" alt="" coords="1410,453,1570,495"/>
+<area shape="rect" id="node24" href="$UIManager_8cxx.html" title="src/engine/UIManager.cxx" alt="" coords="1594,461,1783,487"/>
+<area shape="rect" id="node25" href="$SDLRenderer_8cxx.html" title="src/renderer/SDLRenderer.cxx" alt="" coords="1807,461,2021,487"/>
+<area shape="rect" id="node26" href="$ScriptEngine_8cxx.html" title="src/Scripting/ScriptEngine.cxx" alt="" coords="2045,461,2260,487"/>
+<area shape="rect" id="node27" href="$AudioMixer_8cxx.html" title="src/services/AudioMixer.cxx" alt="" coords="2285,461,2487,487"/>
+<area shape="rect" id="node28" href="$ResourceManager_8cxx.html" title="src/services/ResourceManager.cxx" alt="" coords="2512,461,2756,487"/>
+<area shape="rect" id="node29" href="$android_2Filesystem_8cxx.html" title="src/util/android/Filesystem.cxx" alt="" coords="2780,461,3000,487"/>
+<area shape="rect" id="node30" href="$desktop_2Filesystem_8cxx.html" title="src/util/desktop/Filesystem.cxx" alt="" coords="3024,461,3247,487"/>
+<area shape="rect" id="node31" href="$Filesystem_8cxx.html" title="src/util/Filesystem.cxx" alt="" coords="3271,461,3437,487"/>
+<area shape="rect" id="node32" href="$LOG_8cxx.html" title="src/util/LOG.cxx" alt="" coords="3461,461,3585,487"/>
+<area shape="rect" id="node33" href="$macOS_2Filesystem_8cxx.html" title="src/util/macOS/Filesystem.cxx" alt="" coords="3609,461,3827,487"/>
+</map>

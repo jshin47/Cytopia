@@ -1,0 +1,8 @@
+<map id="iLayout" name="iLayout">
+<area shape="rect" id="node2" href="$classiView.html" title="Represents a View object for drawing and positioning. " alt="" coords="5,477,121,613"/>
+<area shape="rect" id="node3" href="$classRectangle.html" title="Represents an inclusive rectangle. " alt="" coords="145,404,261,687"/>
+<area shape="rect" id="node4" href="$classiShape.html" title="{iShape\n||+ contains()\l+ getBounds()\l+ ~iShape()\l}" alt="" coords="145,248,261,355"/>
+<area shape="rect" id="node5" href="$classPaddingConfiguration.html" title="Represents a PositionHint as padding within a Box. " alt="" coords="286,507,446,584"/>
+<area shape="rect" id="node6" href="$structPositionHint.html" title="Represents a hint to the position of a (or multiple) Box. " alt="" coords="315,263,417,340"/>
+<area shape="rect" id="node7" href="$structScreenMeasurement.html" title="Represents a measurement made on the screen. " alt="" coords="289,5,443,141"/>
+</map>

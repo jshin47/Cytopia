@@ -1,0 +1,10 @@
+<map id="src/util/ZipRange.hxx" name="src/util/ZipRange.hxx">
+<area shape="rect" id="node2" href="$JsonSerialization_8hxx.html" title="src/engine/common/JsonSerialization.hxx" alt="" coords="461,80,752,107"/>
+<area shape="rect" id="node8" href="$UIManager_8cxx.html" title="src/engine/UIManager.cxx" alt="" coords="776,80,965,107"/>
+<area shape="rect" id="node9" href="$CursorView_8cxx.html" title="src/view/CursorView.cxx" alt="" coords="990,80,1170,107"/>
+<area shape="rect" id="node3" href="$Settings_8cxx.html" title="src/engine/basics/Settings.cxx" alt="" coords="5,155,224,181"/>
+<area shape="rect" id="node4" href="$TerrainGenerator_8cxx.html" title="src/engine/map/TerrainGenerator.cxx" alt="" coords="248,155,509,181"/>
+<area shape="rect" id="node5" href="$Map_8cxx.html" title="src/engine/Map.cxx" alt="" coords="533,155,680,181"/>
+<area shape="rect" id="node6" href="$AudioMixer_8cxx.html" title="src/services/AudioMixer.cxx" alt="" coords="704,155,907,181"/>
+<area shape="rect" id="node7" href="$ResourceManager_8cxx.html" title="src/services/ResourceManager.cxx" alt="" coords="931,155,1175,181"/>
+</map>

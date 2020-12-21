@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classGameService.html" title="GameService" alt="" coords="5,132,115,159"/>
+<area shape="rect" id="node2" href="$classAudioMixer.html" title="AudioMixer" alt="" coords="191,5,285,32"/>
+<area shape="rect" id="node3" href="$structGame_1_1GameVisitor.html" title="Game::GameVisitor" alt="" coords="163,56,313,83"/>
+<area shape="rect" id="node4" href="$classGameClock.html" title="GameClock" alt="" coords="189,107,287,133"/>
+<area shape="rect" id="node5" href="$classiActivity.html" title="iActivity" alt="" coords="200,259,276,285"/>
+<area shape="rect" id="node6" href="$classRandomizer.html" title="Randomizer" alt="" coords="188,157,288,184"/>
+<area shape="rect" id="node7" href="$classResourceManager.html" title="ResourceManager" alt="" coords="169,208,307,235"/>
+<area shape="rect" id="node8" href="$classiView.html" title="Represents a View object for drawing and positioning. " alt="" coords="31,309,89,336"/>
+<area shape="rect" id="node9" href="$classiLayout.html" title="iLayout" alt="" coords="203,309,273,336"/>
+<area shape="rect" id="node10" href="$classiViewElement.html" title="iViewElement" alt="" coords="182,360,294,387"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="src/util/ZipRange.inl.hxx" name="src/util/ZipRange.inl.hxx">
+<area shape="rect" id="node2" href="$ZipRange_8hxx.html" title="src/util/ZipRange.hxx" alt="" coords="791,80,951,107"/>
+<area shape="rect" id="node3" href="$JsonSerialization_8hxx.html" title="src/engine/common/JsonSerialization.hxx" alt="" coords="461,155,752,181"/>
+<area shape="rect" id="node9" href="$UIManager_8cxx.html" title="src/engine/UIManager.cxx" alt="" coords="776,155,965,181"/>
+<area shape="rect" id="node10" href="$CursorView_8cxx.html" title="src/view/CursorView.cxx" alt="" coords="990,155,1170,181"/>
+<area shape="rect" id="node4" href="$Settings_8cxx.html" title="src/engine/basics/Settings.cxx" alt="" coords="5,229,224,256"/>
+<area shape="rect" id="node5" href="$TerrainGenerator_8cxx.html" title="src/engine/map/TerrainGenerator.cxx" alt="" coords="248,229,509,256"/>
+<area shape="rect" id="node6" href="$Map_8cxx.html" title="src/engine/Map.cxx" alt="" coords="533,229,680,256"/>
+<area shape="rect" id="node7" href="$AudioMixer_8cxx.html" title="src/services/AudioMixer.cxx" alt="" coords="704,229,907,256"/>
+<area shape="rect" id="node8" href="$ResourceManager_8cxx.html" title="src/services/ResourceManager.cxx" alt="" coords="931,229,1175,256"/>
+</map>

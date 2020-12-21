@@ -1,0 +1,28 @@
+<map id="src/view/CursorView.cxx" name="src/view/CursorView.cxx">
+<area shape="rect" id="node2" href="$CursorView_8hxx.html" title="CursorView.hxx" alt="" coords="936,80,1059,107"/>
+<area shape="rect" id="node28" href="$Filesystem_8hxx.html" title="../util/Filesystem.hxx" alt="" coords="1057,304,1215,331"/>
+<area shape="rect" id="node29" href="$PixelBuffer_8hxx.html" title="../util/PixelBuffer.hxx" alt="" coords="1583,379,1740,405"/>
+<area shape="rect" id="node49" href="$ZipRange_8hxx.html" title="../util/ZipRange.hxx" alt="" coords="1317,453,1467,480"/>
+<area shape="rect" id="node5" href="$MouseState_8hxx.html" title="../model/MouseState.hxx" alt="" coords="578,155,761,181"/>
+<area shape="rect" id="node7" href="$DataModel_8hxx.html" title="DataModel.hxx" alt="" coords="609,229,729,256"/>
+<area shape="rect" id="node8" href="$iModel_8hxx.html" title="iModel.hxx" alt="" coords="235,379,328,405"/>
+<area shape="rect" id="node9" href="$Observer_8hxx.html" title="../util/Observer.hxx" alt="" coords="821,603,966,629"/>
+<area shape="rect" id="node16" href="$MessageQueue_8hxx.html" title="../engine/MessageQueue.hxx" alt="" coords="493,379,702,405"/>
+<area shape="rect" id="node27" href="$UIMQDispatcher_8hxx.html" title="../engine/UIMQDispatcher.hxx" alt="" coords="635,304,850,331"/>
+<area shape="rect" id="node11" href="$Meta_8hxx.html" title="Meta.hxx" alt="" coords="1253,677,1336,704"/>
+<area shape="rect" id="node22" href="$Events_8hxx.html" title="../Events.hxx" alt="" coords="693,453,800,480"/>
+<area shape="rect" id="node26" href="$MessageQueue_8inl_8hxx.html" title="MessageQueue.inl.hxx" alt="" coords="333,453,502,480"/>
+<area shape="rect" id="node24" href="$UIEvents_8hxx.html" title="events/UIEvents.hxx" alt="" coords="610,528,766,555"/>
+<area shape="rect" id="node25" href="$ActivityType_8hxx.html" title="../activity/ActivityType.hxx" alt="" coords="533,603,728,629"/>
+<area shape="rect" id="node30" href="$Rectangle_8hxx.html" title="../util/Rectangle.hxx" alt="" coords="2289,453,2439,480"/>
+<area shape="rect" id="node43" href="$Range_8hxx.html" title="../util/Range.hxx" alt="" coords="1491,453,1619,480"/>
+<area shape="rect" id="node46" href="$Color_8hxx.html" title="../util/Color.hxx" alt="" coords="1859,453,1979,480"/>
+<area shape="rect" id="node48" href="$PixelBuffer_8inl_8hxx.html" title="PixelBuffer.inl.hxx" alt="" coords="1694,453,1834,480"/>
+<area shape="rect" id="node31" href="$iShape_8hxx.html" title="../util/iShape.hxx" alt="" coords="2141,528,2272,555"/>
+<area shape="rect" id="node32" href="$Rectangle_8inl_8hxx.html" title="Rectangle.inl.hxx" alt="" coords="2297,528,2431,555"/>
+<area shape="rect" id="node34" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="1884,603,1961,629"/>
+<area shape="rect" id="node35" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="1613,677,1728,704"/>
+<area shape="rect" id="node42" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="2174,677,2271,704"/>
+<area shape="rect" id="node45" href="$Range_8inl_8hxx.html" title="Range.inl.hxx" alt="" coords="1629,528,1739,555"/>
+<area shape="rect" id="node50" href="$ZipRange_8inl_8hxx.html" title="ZipRange.inl.hxx" alt="" coords="1326,528,1458,555"/>
+</map>

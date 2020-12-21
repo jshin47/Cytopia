@@ -1,0 +1,11 @@
+<map id="DataModel&lt; DataList &gt;" name="DataModel&lt; DataList &gt;">
+<area shape="rect" id="node8" href="$structDataModel.html" title="{DataModel\&lt; MouseStateNotification \&gt;\n||+ DataModel()\l}" alt="" coords="5,728,279,805"/>
+<area shape="rect" id="node10" href="$structDataModel.html" title="{DataModel\&lt; ButtonNotifications \&gt;\n||+ DataModel()\l}" alt="" coords="303,728,549,805"/>
+<area shape="rect" id="node2" href="$classiModel.html" title="{iModel\n||+ ~iModel()\l}" alt="" coords="217,417,318,495"/>
+<area shape="rect" id="node3" href="$classSubject.html" title="{Subject\&lt; VariantType\l\&lt; DataList \&gt;, UIMQDispatcher\l\&lt; VariantType\&lt; DataList \&gt; \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="342,373,569,539"/>
+<area shape="rect" id="node4" href="$structUIMQDispatcher.html" title="{UIMQDispatcher\&lt; VariantType\l\&lt; DataList \&gt; \&gt;\n|+ loop\l|+ dispatch()\l}" alt="" coords="195,167,414,259"/>
+<area shape="rect" id="node5" href="$structUIMQDispatcher.html" title="An asynchronous dispatch to Observers based on a UIMessageQueue processed on another thread..." alt="" coords="196,5,413,83"/>
+<area shape="rect" id="node6" href="$classSubject.html" title="Allows to notify Observers about events. " alt="" coords="438,145,673,281"/>
+<area shape="rect" id="node9" href="$classMouseState.html" title="{MouseState\n|&#45; m_Model\l|+ setPosition()\l+ setCursor()\l+ ~MouseState()\l}" alt="" coords="75,855,209,961"/>
+<area shape="rect" id="node11" href="$classButtonState.html" title="{ButtonState\n|&#45; m_Status\l|+ setStatus()\l+ ~ButtonState()\l}" alt="" coords="359,862,493,954"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="src/layout/iLayout.hxx" name="src/layout/iLayout.hxx">
+<area shape="rect" id="node3" href="$Range_8hxx.html" title="../util/Range.hxx" alt="" coords="143,80,271,107"/>
+<area shape="rect" id="node11" href="$iView_8hxx.html" title="../view/iView.hxx" alt="" coords="427,155,559,181"/>
+<area shape="rect" id="node13" href="$iViewElement_8hxx.html" title="../view/iViewElement.hxx" alt="" coords="417,80,603,107"/>
+<area shape="rect" id="node14" href="$BoxSizing_8hxx.html" title="BoxSizing.hxx" alt="" coords="287,155,402,181"/>
+<area shape="rect" id="node5" href="$Meta_8hxx.html" title="../util/Meta.hxx" alt="" coords="392,379,511,405"/>
+<area shape="rect" id="node10" href="$Range_8inl_8hxx.html" title="Range.inl.hxx" alt="" coords="152,155,263,181"/>
+<area shape="rect" id="node16" href="$Rectangle_8hxx.html" title="Rectangle.hxx" alt="" coords="634,155,749,181"/>
+<area shape="rect" id="node15" href="$BoxSizing_8inl_8hxx.html" title="BoxSizing.inl.hxx" alt="" coords="295,229,429,256"/>
+<area shape="rect" id="node17" href="$iShape_8hxx.html" title="../util/iShape.hxx" alt="" coords="955,229,1086,256"/>
+<area shape="rect" id="node18" href="$Rectangle_8inl_8hxx.html" title="Rectangle.inl.hxx" alt="" coords="796,229,931,256"/>
+<area shape="rect" id="node20" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="962,304,1039,331"/>
+<area shape="rect" id="node22" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="1062,379,1177,405"/>
+<area shape="rect" id="node31" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="1471,379,1568,405"/>
+</map>

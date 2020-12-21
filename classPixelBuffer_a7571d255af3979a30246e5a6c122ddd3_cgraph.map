@@ -1,0 +1,6 @@
+<map id="PixelBuffer::toSurface" name="PixelBuffer::toSurface">
+<area shape="rect" id="node2" href="$classPixelBuffer.html#a14b14bfb06b1478467592f66a7bb5ca5" title="Read&#45;only access to the bounds of the PixelBuffer. " alt="" coords="216,5,364,32"/>
+<area shape="rect" id="node3" href="$classRectangle.html#a6d7591d194230afb71ac2efcb8fd782f" title="Rectangle::width" alt="" coords="225,56,355,83"/>
+<area shape="rect" id="node5" href="$classRectangle.html#a21cbebe8e941c0c92d7eba0f7badcb6a" title="Rectangle::height" alt="" coords="223,107,357,133"/>
+<area shape="rect" id="node4" href="$classRectangle.html#ace89ac3a7085543f3f60449fb5cdc8af" title="Rectangle::isEmpty" alt="" coords="412,81,559,108"/>
+</map>

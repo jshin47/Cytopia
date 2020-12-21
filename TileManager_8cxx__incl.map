@@ -1,0 +1,21 @@
+<map id="src/engine/TileManager.cxx" name="src/engine/TileManager.cxx">
+<area shape="rect" id="node2" href="$TileManager_8hxx.html" title="TileManager.hxx" alt="" coords="273,304,402,331"/>
+<area shape="rect" id="node14" href="$LOG_8hxx.html" title="LOG.hxx" alt="" coords="1609,379,1687,405"/>
+<area shape="rect" id="node15" href="$Exception_8hxx.html" title="Exception.hxx" alt="" coords="2131,453,2245,480"/>
+<area shape="rect" id="node30" href="$Settings_8hxx.html" title="basics/Settings.hxx" alt="" coords="881,379,1029,405"/>
+<area shape="rect" id="node32" href="$ResourcesManager_8hxx.html" title="ResourcesManager.hxx" alt="" coords="607,229,777,256"/>
+<area shape="rect" id="node33" href="$Filesystem_8hxx.html" title="Filesystem.hxx" alt="" coords="959,80,1079,107"/>
+<area shape="rect" id="node6" href="$tileData_8hxx.html" title="tileData.hxx" alt="" coords="451,379,554,405"/>
+<area shape="rect" id="node12" href="$Singleton_8hxx.html" title="Singleton.hxx" alt="" coords="253,453,363,480"/>
+<area shape="rect" id="node8" href="$enums_8hxx.html" title="enums.hxx" alt="" coords="471,453,566,480"/>
+<area shape="rect" id="node25" href="$Meta_8hxx.html" title="Meta.hxx" alt="" coords="1232,453,1315,480"/>
+<area shape="rect" id="node29" href="$LOG_8inl_8hxx.html" title="LOG.inl.hxx" alt="" coords="1798,453,1895,480"/>
+<area shape="rect" id="node35" href="$PixelBuffer_8hxx.html" title="../util/PixelBuffer.hxx" alt="" coords="1288,155,1445,181"/>
+<area shape="rect" id="node36" href="$Rectangle_8hxx.html" title="../util/Rectangle.hxx" alt="" coords="1862,229,2013,256"/>
+<area shape="rect" id="node39" href="$Range_8hxx.html" title="../util/Range.hxx" alt="" coords="1539,229,1667,256"/>
+<area shape="rect" id="node42" href="$Color_8hxx.html" title="../util/Color.hxx" alt="" coords="1229,229,1349,256"/>
+<area shape="rect" id="node44" href="$PixelBuffer_8inl_8hxx.html" title="PixelBuffer.inl.hxx" alt="" coords="1374,229,1514,256"/>
+<area shape="rect" id="node37" href="$iShape_8hxx.html" title="../util/iShape.hxx" alt="" coords="1715,304,1845,331"/>
+<area shape="rect" id="node38" href="$Rectangle_8inl_8hxx.html" title="Rectangle.inl.hxx" alt="" coords="1870,304,2005,331"/>
+<area shape="rect" id="node41" href="$Range_8inl_8hxx.html" title="Range.inl.hxx" alt="" coords="1442,304,1553,331"/>
+</map>

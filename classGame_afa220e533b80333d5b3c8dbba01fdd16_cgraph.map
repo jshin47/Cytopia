@@ -1,0 +1,8 @@
+<map id="Game::initialize" name="Game::initialize">
+<area shape="rect" id="node2" href="$namespacefs.html#a28e4c1324680c188092ecfe5fd8a91a3" title="fs::getBasePath" alt="" coords="215,5,337,32"/>
+<area shape="rect" id="node3" href="$classSingleton.html#af5cb1e5749949e2b68416cfb8d378044" title="Get an instance of the singleton. " alt="" coords="201,57,351,98"/>
+<area shape="rect" id="node4" href="$classLayout.html#ac550e3bcce9f0729344b89a4964f6f77" title="Sets the Window. " alt="" coords="203,123,349,149"/>
+<area shape="rect" id="node5" href="$classEventManager.html#a8df81e2a0e2bf47ce0b5e457029e9a77" title="EventManager::setWindow" alt="" coords="179,173,373,200"/>
+<area shape="rect" id="node6" href="$classMap.html#a4e68b9e89e55a88b5f64c835e9dac626" title="Sets the Window. " alt="" coords="211,224,341,251"/>
+<area shape="rect" id="node7" href="$classCamera.html#a9f6787c6114305e12aa8aa80b0bae690" title="Sets the window. " alt="" coords="199,275,353,301"/>
+</map>

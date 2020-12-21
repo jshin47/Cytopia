@@ -1,0 +1,10 @@
+<map id="src/view/Window.hxx" name="src/view/Window.hxx">
+<area shape="rect" id="node2" href="$iActivity_8cxx.html" title="src/activity/iActivity.cxx" alt="" coords="5,80,183,107"/>
+<area shape="rect" id="node3" href="$Camera_8cxx.html" title="src/engine/basics/Camera.cxx" alt="" coords="207,80,423,107"/>
+<area shape="rect" id="node4" href="$Map_8cxx.html" title="src/engine/Map.cxx" alt="" coords="447,80,594,107"/>
+<area shape="rect" id="node5" href="$WindowManager_8cxx.html" title="src/engine/WindowManager.cxx" alt="" coords="618,80,845,107"/>
+<area shape="rect" id="node6" href="$Game_8hxx.html" title="src/Game.hxx" alt="" coords="869,80,981,107"/>
+<area shape="rect" id="node9" href="$Window_8cxx.html" title="src/view/Window.cxx" alt="" coords="1005,80,1164,107"/>
+<area shape="rect" id="node7" href="$Game_8cxx.html" title="src/Game.cxx" alt="" coords="803,155,913,181"/>
+<area shape="rect" id="node8" href="$main_8cxx.html" title="src/main.cxx" alt="" coords="937,155,1043,181"/>
+</map>

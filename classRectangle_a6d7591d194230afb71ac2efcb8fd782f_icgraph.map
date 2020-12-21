@@ -1,0 +1,29 @@
+<map id="Rectangle::width" name="Rectangle::width">
+<area shape="rect" id="node2" href="$classCamera.html#adfb240823ff20b97b69459490dbd8dc3" title="Centers camera on given isometric coordinates. " alt="" coords="185,277,403,304"/>
+<area shape="rect" id="node5" href="$classEventManager.html#a65ec91fd5016d4f9c4167fb8babed2df" title="EventManager::checkEvents" alt="" coords="1001,227,1207,253"/>
+<area shape="rect" id="node11" href="$classMap.html#af654ddecf0d25b836d7c9c27ee5c2150" title="Map\&lt; ObserverSPtr\&lt;\l Notification \&gt;, Set\l\&lt; typename Notification\l::TransitionType \&gt; \&gt;::calculate\lVisibleMap" alt="" coords="184,107,404,192"/>
+<area shape="rect" id="node12" href="$classLayout.html#afa734c5af10f59f3dadb066054fe81ab" title="Arrange the layout elements. " alt="" coords="466,45,651,72"/>
+<area shape="rect" id="node16" href="$classLayout.html#a99004e4afcea6a945e3890b19cce6236" title="Arrange Elements that are aligned to a parent This is a seperate function, so it can recurse if a par..." alt="" coords="185,5,403,32"/>
+<area shape="rect" id="node17" href="$classGame.html#a560299f0291c281f7b44e7ef0dd7b264" title="initializes and displays the main menu initializes and displays the main menu " alt="" coords="1255,383,1392,409"/>
+<area shape="rect" id="node18" href="$classSDLRenderer.html#a6541b0f4cc60e8fe20cc6fb0bec97f1b" title="SDLRenderer::drawText" alt="" coords="473,531,645,557"/>
+<area shape="rect" id="node19" href="$classSDLRenderer.html#adccd397815cc5c7dbc61d93ce04e2439" title="SDLRenderer::drawPicture" alt="" coords="463,657,654,684"/>
+<area shape="rect" id="node20" href="$classPixelBuffer.html#a5402df89a5dc5b23594a697285f21e34" title="Scale the pixel buffer using nearest&#45;neighbor in both dimensions. " alt="" coords="227,379,361,405"/>
+<area shape="rect" id="node21" href="$classCursorView.html#a31952d744480fd52f49aa3d552a90f9f" title="CursorView::CursorView" alt="" coords="470,429,647,456"/>
+<area shape="rect" id="node22" href="$classPixelBuffer.html#abbad3bec56ca536a543c42024045c99d" title="Crop the pixel buffer around a region. " alt="" coords="229,480,359,507"/>
+<area shape="rect" id="node23" href="$classPixelBuffer.html#af2200c8401646984b4119c3c7ec8e6b5" title="Expands the sprite with a center cross to reach a dimension. " alt="" coords="198,632,390,659"/>
+<area shape="rect" id="node24" href="$classPixelBuffer.html#a7571d255af3979a30246e5a6c122ddd3" title="Convert to SDL_Surface. " alt="" coords="213,784,375,811"/>
+<area shape="rect" id="node26" href="$classPixelBuffer.html#a0d7a4fd0591121980a922794307c19e9" title="Construct a PixelBuffer from bounds and a range. " alt="" coords="208,733,380,760"/>
+<area shape="rect" id="node27" href="$classRectangle.html#a8e643108a9d90f031b397c7f561e9b66" title="Rectangle::to_SDL" alt="" coords="225,581,363,608"/>
+<area shape="rect" id="node3" href="$classCamera.html#a0a8ee04ccb4f4cc9af52a964cf225f66" title="Increases the zoom level of the camera. " alt="" coords="454,277,663,304"/>
+<area shape="rect" id="node4" href="$classCamera.html#a1f8ecd427814c5a4970223c2d13b9310" title="Sets the pinch distance for Android. " alt="" coords="737,227,930,253"/>
+<area shape="rect" id="node9" href="$classCamera.html#aeea39f352d5873495dea6f376cf3207e" title="Decreases the zoom level of the camera. " alt="" coords="452,176,665,203"/>
+<area shape="rect" id="node10" href="$classCamera.html#af29da768f8948f3afbf0a9b43530eb1d" title="Centers camera on the middle of the map. " alt="" coords="728,329,939,370"/>
+<area shape="rect" id="node6" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="begins the game starts running the game " alt="" coords="1440,251,1531,277"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1579,303,1703,329"/>
+<area shape="rect" id="node8" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1751,303,1805,329"/>
+<area shape="rect" id="node13" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="1263,75,1384,101"/>
+<area shape="rect" id="node14" href="$classUIManager.html#a3ccb2fc669262f18ebdcdf3d5c43a3e8" title="CallbackFunction that sets the Build Menu Position Used as callback function for the ComboBox that ho..." alt="" coords="713,20,953,47"/>
+<area shape="rect" id="node15" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="1007,9,1201,50"/>
+<area shape="rect" id="node25" href="$classWindow.html#a51382238ba9aad6491768c86d123a48f" title="Window::Window" alt="" coords="492,784,625,811"/>
+<area shape="rect" id="node28" href="$classSDLRenderer.html#a437321420e34cd050515bdcd59b3add4" title="SDLRenderer::drawShape" alt="" coords="466,581,651,608"/>
+</map>

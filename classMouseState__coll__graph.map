@@ -1,0 +1,15 @@
+<map id="MouseState" name="MouseState">
+<area shape="rect" id="node2" href="$structDataModel.html" title="{DataModel\&lt; MouseStateNotification \&gt;\n||+ DataModel()\l}" alt="" coords="123,1501,396,1579"/>
+<area shape="rect" id="node3" href="$classiModel.html" title="{iModel\n||+ ~iModel()\l}" alt="" coords="271,1154,373,1231"/>
+<area shape="rect" id="node12" href="$structDataModel.html" title="{DataModel\&lt; DataList \&gt;\n||+ DataModel()\l}" alt="" coords="297,1332,473,1409"/>
+<area shape="rect" id="node4" href="$classSubject.html" title="{Subject\&lt; VariantType\l\&lt; MouseStateNotification\l \&gt;, UIMQDispatcher\&lt; VariantType\l\&lt; MouseStateNotification \&gt; \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="5,1103,247,1283"/>
+<area shape="rect" id="node5" href="$structUIMQDispatcher.html" title="{UIMQDispatcher\&lt; VariantType\l\&lt; MouseStateNotification \&gt; \&gt;\n||+ dispatch()\l}" alt="" coords="11,897,230,989"/>
+<area shape="rect" id="node6" href="$classUILoopMQ.html" title="UI Actor&#39;s message queue. " alt="" coords="297,580,385,657"/>
+<area shape="rect" id="node9" href="$structUIMQDispatcher.html" title="An asynchronous dispatch to Observers based on a UIMessageQueue processed on another thread..." alt="" coords="232,720,449,797"/>
+<area shape="rect" id="node14" href="$structUIMQDispatcher.html" title="{UIMQDispatcher\&lt; VariantType\l\&lt; DataList \&gt; \&gt;\n||+ dispatch()\l}" alt="" coords="607,897,826,989"/>
+<area shape="rect" id="node7" href="$classMessageQueue.html" title="{MessageQueue\&lt; VariantType\l\&lt; UIEvents \&gt; \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="235,292,447,531"/>
+<area shape="rect" id="node8" href="$classMessageQueue.html" title="{MessageQueue\&lt; Event \&gt;\n|&#45; m_OnEvent\l&#45; m_Semaphore\l&#45; m_Queue\l|+ push()\l+ peek()\l+ getEnumerable()\l+ MessageQueue()\l+ operator=()\l+ MessageQueue()\l+ MessageQueue()\l+ operator=()\l&#45; wakeCondition()\l}" alt="" coords="247,5,435,229"/>
+<area shape="rect" id="node10" href="$classSubject.html" title="Allows to notify Observers about events. " alt="" coords="349,875,583,1011"/>
+<area shape="rect" id="node13" href="$classSubject.html" title="{Subject\&lt; VariantType\l\&lt; DataList \&gt;, UIMQDispatcher\l\&lt; VariantType\&lt; DataList \&gt; \&gt; \&gt;\n|&#45; m_Observers\l|+ addObserver()\l# Subject()\l# notifyObservers()\l# ~Subject()\l# mustNotify()\l}" alt="" coords="397,1110,623,1275"/>
+<area shape="rect" id="node15" href="$structMouseStateModel.html" title="{MouseStateModel\n|+ xPosition\l+ yPosition\l+ xVelocity\l+ yVelocity\l+ cursorType\l|}" alt="" coords="420,1472,557,1608"/>
+</map>

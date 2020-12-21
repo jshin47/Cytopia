@@ -1,0 +1,9 @@
+<map id="ComboBox::setActiveID" name="ComboBox::setActiveID">
+<area shape="rect" id="node2" href="$classComboBox.html#afddbdfd25efa15206eb724b641665cfc" title="Get ID of selected element returns the ID of the selected element in the comboBox. " alt="" coords="229,5,407,32"/>
+<area shape="rect" id="node4" href="$classUIManager.html#a5c4cb8e02504ffa0d3faf45181feab9d" title="Fill UI Widgets whose ID start with a $ with data Used for filling widgets with data, like BuildMenu Position combobox, Screen Resolution ComboBox and so on. " alt="" coords="743,23,937,65"/>
+<area shape="rect" id="node3" href="$classUIManager.html#a3ccb2fc669262f18ebdcdf3d5c43a3e8" title="CallbackFunction that sets the Build Menu Position Used as callback function for the ComboBox that ho..." alt="" coords="455,5,695,32"/>
+<area shape="rect" id="node5" href="$classUIManager.html#aedd9d0577af515a852425dfe414b2968" title="Parses the UiLayout.json files and creates UI Elements. " alt="" coords="985,31,1107,57"/>
+<area shape="rect" id="node6" href="$classGame.html#a1c2ab25d5216b2f4b2fe41efd2c09114" title="begins the game starts running the game " alt="" coords="1155,31,1245,57"/>
+<area shape="rect" id="node7" href="$main_8cxx.html#af582d708d899e67ead623eac34a22387" title="protected_main" alt="" coords="1293,31,1417,57"/>
+<area shape="rect" id="node8" href="$main_8cxx.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="1465,31,1520,57"/>
+</map>
