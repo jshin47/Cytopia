@@ -73,6 +73,7 @@ void MapNode::setTileID(const std::string &tileID, const Point &origCornerPoint)
     {
     case Layer::ZONE:
       this->setNodeTransparency(Settings::instance().zoneLayerTransparency, Layer::ZONE);
+      this->setConstructionTimer(layer);
       break;
     case Layer::WATER:
       demolishLayer(Layer::ROAD);
@@ -150,6 +151,28 @@ Layer MapNode::getTopMostActiveLayer() const
     return Layer::TERRAIN;
   }
   return Layer::NONE;
+}
+
+void MapNode::progress(Layer layer) {
+  this->m_mapNodeData[layer].constructionProgress = std::min(this->m_mapNodeData[layer].constructionProgress + 20, 100);
+  printf("construction progress %d\n", this->m_mapNodeData[layer].constructionProgress);
+  if (this->m_mapNodeData[layer].constructionProgress == 100)
+  {
+    this->constructionTimer.stop();
+  }
+  this->updateTexture(layer);
+}
+
+void MapNode::setConstructionTimer(Layer layer)
+{
+  this->constructionTimer.registerCallbackFunction([this, layer]() {
+    this->progress(layer);
+  });
+
+  this->constructionTimer.loopTimer(true);
+  this->constructionTimer.setTimer(1000);
+
+  this->constructionTimer.start();
 }
 
 void MapNode::setNodeTransparency(const float transparencyFactor, const Layer &layer) const
@@ -345,8 +368,15 @@ void MapNode::updateTexture(const Layer &layer)
                                 static_cast<Layer>(currentLayer));
           if (m_mapNodeData[currentLayer].shouldRender)
           {
-            m_sprite->setTexture(TileManager::instance().getTexture(m_mapNodeData[currentLayer].tileID),
-                                 static_cast<Layer>(currentLayer));
+            if (currentLayer == Layer::ZONE && m_mapNodeData[currentLayer].constructionProgress < 100)
+            {
+              m_sprite->setTexture(TileManager::instance().getTexture("zone_industrial_light"),
+                                  static_cast<Layer>(currentLayer));  
+            }
+            else {
+              m_sprite->setTexture(TileManager::instance().getTexture(m_mapNodeData[currentLayer].tileID),
+                                  static_cast<Layer>(currentLayer));
+            }
           }
         }
 

@@ -14,6 +14,8 @@
 
 #include "../TileManager.hxx"
 
+#include "Timer.hxx"
+
 struct MapNodeData
 {
   std::string tileID;
@@ -22,6 +24,7 @@ struct MapNodeData
   Point origCornerPoint = Point::INVALID();
   bool shouldRender = true;
   TileMap tileMap = TileMap::DEFAULT; // store information wheter we use normal, slope or shore tiles
+  int32_t constructionProgress = 0;
 };
 
 /** @brief Class that holds map nodes
@@ -122,6 +125,8 @@ public:
  */
   void demolishNode(const Layer &layer = Layer::NONE);
 
+  void progress(Layer layer);
+
   /** @brief demolish specific layer of a Node.
     * @param layer - what layer should be demolished.
     */
@@ -186,5 +191,7 @@ private:
   std::vector<MapNodeData> m_mapNodeData;
   std::vector<unsigned char> m_autotileBitmask;
   unsigned char m_elevationBitmask = 0;
+  void setConstructionTimer(Layer layer);
+  Timer constructionTimer;
 };
 #endif

@@ -114,6 +114,9 @@ struct TileData
   int power = 0;                         /// power production / consumption if negative
   int water = 0;                         /// water production / consumption if negative
 
+  int constructionProgress = 0;          /// out of 100
+  int developmentProgress = 0;           /// arbitrary
+
   std::vector<std::string>
       groundDecoration; /// tileID of the item that should be drawn on ground below sprite instead of terrain(grass, concrete, ...). Must be a tileID with tileType GroundDecoration
   bool placeOnGround = true;     /// wether or not this building is placeable on ground
